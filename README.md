@@ -11,5 +11,6 @@ Prototipo Android estilo survivor con temática anime inspirada en artes marcial
 
 ## Compilar APK
 El workflow de GitHub Actions genera un APK debug automáticamente en cada push a `main`.
+El APK queda disponible como artefacto `SaiyanSurvivor-debug-apk` dentro del run de Actions.
 
 Versión: 0.1.0
